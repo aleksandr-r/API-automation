@@ -1,0 +1,1 @@
+TO RUN: newman run JuiceShop.postman_collection.json -e JuiceEnv1.postman_environment.json --reporters cli,html --reporter-json-export outputfile.html
